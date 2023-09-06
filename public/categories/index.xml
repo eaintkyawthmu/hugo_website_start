@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - AI/ML Journal</title>
+        <link>https://eaintkyawthmu.github.io/your-website/categories/</link>
+        <description>Categories - Category - AI/ML Journal</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Jul 2023 07:00:00 &#43;0000</lastBuildDate><atom:link href="https://eaintkyawthmu.github.io/your-website/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>android</title>
+    <link>https://eaintkyawthmu.github.io/your-website/categories/android/</link>
+    <pubDate>Mon, 24 Jul 2023 07:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/categories/android/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Documentation</title>
+    <link>https://eaintkyawthmu.github.io/your-website/categories/documentation/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/categories/documentation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>https://eaintkyawthmu.github.io/your-website/categories/markdown/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/categories/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>abc</title>
+    <link>https://eaintkyawthmu.github.io/your-website/categories/abc/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/categories/abc/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

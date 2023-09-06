@@ -1,0 +1,94 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://eaintkyawthmu.github.io/your-website/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Jul 2023 07:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://eaintkyawthmu.github.io/your-website/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Theme Documentation - Basics</title>
+    <link>https://eaintkyawthmu.github.io/your-website/posts/theme-documentation-basics/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/posts/theme-documentation-basics/</guid>
+    <description><![CDATA[<p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - Built-in Shortcodes</title>
+    <link>https://eaintkyawthmu.github.io/your-website/posts/theme-documentation-built-in-shortcodes/</link>
+    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/posts/theme-documentation-built-in-shortcodes/</guid>
+    <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>]]></description>
+</item>
+<item>
+    <title>Basic Markdown Syntax</title>
+    <link>https://eaintkyawthmu.github.io/your-website/posts/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/posts/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+<item>
+    <title>Emoji Support</title>
+    <link>https://eaintkyawthmu.github.io/your-website/posts/emoji-support/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/posts/emoji-support/</guid>
+    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - bilibili Shortcode</title>
+    <link>https://eaintkyawthmu.github.io/your-website/posts/theme-documentation-bilibili-shortcode/</link>
+    <pubDate>Tue, 03 Mar 2020 11:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/posts/theme-documentation-bilibili-shortcode/</guid>
+    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
+<p>The <code>bilibili</code> shortcode embeds a responsive video player for bilibili videos.</p>]]></description>
+</item>
+<item>
+    <title>android</title>
+    <link>https://eaintkyawthmu.github.io/your-website/posts/android/</link>
+    <pubDate>Mon, 24 Jul 2023 07:00:00 &#43;0000</pubDate>
+    <author>android</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/posts/android/</guid>
+    <description><![CDATA[android]]></description>
+</item>
+<item>
+    <title>GABCDEF</title>
+    <link>https://eaintkyawthmu.github.io/your-website/posts/abc/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>abv</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/posts/abc/</guid>
+    <description><![CDATA[<hr>
+<p>weight: 5
+title: &ldquo;Emoji Support&rdquo;
+date: 2019-10-01T17:55:28+08:00
+lastmod: 2019-10-01T17:55:28+08:00
+draft: false
+author: &ldquo;GABCDEF&rdquo;
+authorLink: &ldquo;<a href="https://dillonzq.com" target="_blank" rel="noopener noreffer ">https://dillonzq.com</a>&rdquo;
+description: &ldquo;GABCDEF.&rdquo;
+images: []
+resources:</p>
+<ul>
+<li>name: &ldquo;featured-image&rdquo;
+src: &ldquo;featured-image.jpg&rdquo;</li>
+</ul>
+<p>tags: [&ldquo;emoji&rdquo;]
+categories: [&ldquo;Markdown&rdquo;]</p>
+<h2 id="lightgallery-true">twemoji: false
+lightgallery: true</h2>
+<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
+</item>
+<item>
+    <title>Hello, World!</title>
+    <link>https://eaintkyawthmu.github.io/your-website/posts/hello-world/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://eaintkyawthmu.github.io/your-website/posts/hello-world/</guid>
+    <description><![CDATA[Hello World! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis.
+Suspendisse facilisis, mi ac scelerisque interdum, ligula ex imperdiet felis, a posuere eros justo nec sem. Nullam laoreet accumsan metus, sit amet tincidunt orci egestas nec.]]></description>
+</item>
+</channel>
+</rss>
