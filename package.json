@@ -1,5 +1,5 @@
 {
-  "name": "personaljournal",
+  "name": "aiml",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
   },
   "description": "",
   "devDependencies": {
-    "@tinacms/cli": "^1.5.29"
+    "tinacms": "tinacms",
+    "@tinacms/cli": "^1.5.29" 
   }
 }
